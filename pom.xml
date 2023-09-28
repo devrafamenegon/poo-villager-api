@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.edu.faj.poo.villager</groupId>
-	<artifactId>VilagerService</artifactId>
+	<artifactId>VillagerService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>VilagerService</name>
+	<name>VillagerService</name>
 	<description>Para o tema condomínio, especificamente para o Morador, criar um CRUD para Morador, isto é, Inserir, Autualizar, Listar e Excluir.   Também é necessário criar telas HTML para acessar essa aplicação. Obrigatoriamente deve persistir em Banco, com um DAO para as SQL e Controller para tratamento do REST em JSON.</description>
 	<properties>
 		<java.version>11</java.version>
