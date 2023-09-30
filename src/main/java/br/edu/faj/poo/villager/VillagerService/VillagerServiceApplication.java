@@ -9,5 +9,4 @@ public class VillagerServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(VillagerServiceApplication.class, args);
 	}
-
 }

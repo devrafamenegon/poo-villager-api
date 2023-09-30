@@ -1,4 +1,4 @@
-package br.edu.faj.poo.ministerio.MinisterioService.dtos.response;
+package br.edu.faj.poo.villager.VillagerService.dtos.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
